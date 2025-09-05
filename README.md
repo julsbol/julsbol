@@ -26,6 +26,14 @@
 ![Requests](https://img.shields.io/badge/Requests-00599C?style=flat&logo=python&logoColor=white)
 ![Pingouin](https://img.shields.io/badge/Pingouin-3F88C5?style=flat&logo=python&logoColor=white)
 
+### [Kicksharing case 🔗](https://github.com/julsbol/kicksharing_case)
+> 🎯 **Цель:** провести разведочный анализ данных (EDA)
+> 🛠 **Стек:** ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=flat&logo=python&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=matplotlib&logoColor=white)
+![Requests](https://img.shields.io/badge/Requests-00599C?style=flat&logo=python&logoColor=white)
+
 ### [E-commerce Dashboard 🔗](https://github.com/julsbol/e_commerce_dashboard)
 > 🎯 **Цель:** разработать дашборд для мониторинга и анализа ключевых финансовых метрик маркетплейса  
 > 🛠 **Стек:** ![Dashboard Canvas](https://img.shields.io/badge/Dashboard%20Canvas-4CAF50?style=flat&logo=none&logoColor=white)
