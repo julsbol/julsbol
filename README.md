@@ -27,7 +27,7 @@
 ![Pingouin](https://img.shields.io/badge/Pingouin-3F88C5?style=flat&logo=python&logoColor=white)
 
 ### [Kicksharing case 🔗](https://github.com/julsbol/kicksharing_case)
-> 🎯 **Цель:** провести разведочный анализ данных (EDA)
+> 🎯 **Цель:** провести разведочный анализ данных (EDA)  
 > 🛠 **Стек:** ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=flat&logo=python&logoColor=white)
